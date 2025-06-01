@@ -12,10 +12,13 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 - 📫 How to reach me: [Through GitHub](https://github.com/elaylevy123)  
 - 🧠 Fun fact: I love solving complex algorithmic problems in my free time  
 
+
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,cs,c,react,php,nodejs,express,nextjs,bots,aws,dotnet,electron,ai" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,jquery,tailwind,mongodb,mysql,postgres,git,github,postman,linux,py,laravel,spring" />
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,cs,c" /><br>
+  <img src="https://skillicons.dev/icons?i=react,php,nodejs,express,nextjs,bots" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,dotnet,electron,ai,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=jquery,tailwind,mongodb,mysql,postgres,git" /><br>
+  <img src="https://skillicons.dev/icons?i=github,postman,linux,py,laravel,spring" />
+</div>
