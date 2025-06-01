@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Elay
 
-<!--
-**elaylevy123/elaylevy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Passionate Developer from Israel 🇮🇱
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer with a love for creating innovative solutions. My journey in the world of programming has led me to explore various technologies and languages, always striving to expand my knowledge and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working on enhancing my full-stack development skills  
+- 🌿 I’m currently learning advanced Node.js and React techniques  
+- 🤝 I’m looking to collaborate on open source projects  
+- 💬 Ask me about Node.js, Java, JavaScript, C/C++, or Rust  
+- 📫 How to reach me: [Through GitHub](https://github.com/elaylevy123)  
+- 🧠 Fun fact: I love solving complex algorithmic problems in my free time  
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,java,cpp,rust,python,dotnet,aws,git,github,vscode,mysql,postgresql" />
+</p>
