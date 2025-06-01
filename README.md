@@ -16,6 +16,6 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,cs,c,react,php,nodejs,express,nextjs,bots,aws,dotnet,electron,ai" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,jquery,tailwind,mongodb,mysql,postgres,git,github,postman,linux,py,laravel,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,jquery,tailwind,mongodb,mysql,postgres,git,github,postman,linux,py,laravel,spring" />
 </p>
 
