@@ -13,6 +13,9 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 - 🧠 Fun fact: I love solving complex algorithmic problems in my free time  
 
 ## 🛠️ Languages and Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,java,cpp,rust,python,dotnet,aws,git,github,vscode,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,cs,react,nodejs,express,nextjs,aws,dotnet,electron" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,mongodb,mysql,postgres,git,github,linux,py,rust" />
 </p>
+
